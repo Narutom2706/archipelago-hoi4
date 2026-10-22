@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ArchipelagoHOI4/ArchipelagoHOI4.vcxproj" Id="bfaab640-4412-408c-84aa-0ae5e4eb02c8" />
+</Solution>

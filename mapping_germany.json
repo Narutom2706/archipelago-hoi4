@@ -1,0 +1,1511 @@
+{
+    "locations": {
+        "FOCUS_GER_construct_the_reichsautobahn": 940001,
+        "FOCUS_GER_build_the_rur_dam": 940002,
+        "FOCUS_GER_trade_deal_with_sweden": 940003,
+        "FOCUS_GER_kdf_wagen_factories": 940004,
+        "FOCUS_GER_expand_the_reichsautobahn_south": 940005,
+        "FOCUS_GER_expand_the_reichsautobahn_east": 940006,
+        "FOCUS_GER_develop_heraeus_facilities": 940007,
+        "FOCUS_GER_the_four_year_plan": 940008,
+        "FOCUS_GER_autarky_efforts": 940009,
+        "FOCUS_GER_institute_price_controls": 940010,
+        "FOCUS_GER_establish_the_reichswerke": 940011,
+        "FOCUS_GER_seize_foreign_industries": 940012,
+        "FOCUS_GER_coal_liquefaction": 940013,
+        "FOCUS_GER_subsidize_hoesch_benzin": 940014,
+        "FOCUS_GER_establish_buna_werke": 940015,
+        "FOCUS_GER_autarky_achieved": 940016,
+        "FOCUS_GER_accelerate_the_rearmament_program": 940017,
+        "FOCUS_GER_concentrated_armament_program": 940018,
+        "FOCUS_GER_establish_production_targets": 940019,
+        "FOCUS_GER_prioritize_the_army": 940020,
+        "FOCUS_GER_prioritize_the_navy": 940021,
+        "FOCUS_GER_zentrale_planung": 940022,
+        "FOCUS_GER_create_rustungsstab": 940023,
+        "FOCUS_GER_armament_rationalization": 940024,
+        "FOCUS_GER_totaler_krieg": 940025,
+        "FOCUS_GER_develop_modern_maneuver_warfare": 940026,
+        "FOCUS_GER_fortify_the_vaterland": 940027,
+        "FOCUS_GER_the_prussian_legacy": 940028,
+        "FOCUS_GER_improve_motorized_troops": 940029,
+        "FOCUS_GER_lessons_of_the_great_war": 940030,
+        "FOCUS_GER_artillery_bombardment": 940031,
+        "FOCUS_GER_stormtroopers": 940032,
+        "FOCUS_GER_all_terrain_military_motorcycle": 940033,
+        "FOCUS_GER_salvage_captured_equipment": 940034,
+        "FOCUS_GER_instill_auftragstaktik": 940035,
+        "FOCUS_GER_establish_the_afrikakorps": 940036,
+        "FOCUS_GER_establish_the_skijager": 940037,
+        "FOCUS_GER_panzergrenadier": 940038,
+        "FOCUS_GER_nationalize_ford_factories": 940039,
+        "FOCUS_GER_kriegslokomotiven": 940040,
+        "FOCUS_GER_improve_the_logistics_system": 940041,
+        "FOCUS_GER_defend_the_vaterland": 940042,
+        "FOCUS_GER_uranverein": 940043,
+        "FOCUS_GER_adopt_new_panzer_doctrine": 940044,
+        "FOCUS_GER_panzer_troops_school": 940045,
+        "FOCUS_GER_advanced_panzer_research": 940046,
+        "FOCUS_GER_expand_kummersdorfs_capacity": 940047,
+        "FOCUS_GER_combined_arms": 940048,
+        "FOCUS_GER_expanding_the_luftwaffe": 940049,
+        "FOCUS_GER_aeronautical_research_institute": 940050,
+        "FOCUS_GER_dive_bombers": 940051,
+        "FOCUS_GER_tactical_bombers": 940052,
+        "FOCUS_GER_uralbomber_program": 940053,
+        "FOCUS_GER_rocketry_innovations": 940054,
+        "FOCUS_GER_fallschirmjager": 940055,
+        "FOCUS_GER_form_the_jagdwaffe": 940056,
+        "FOCUS_GER_reorganize_the_luftwaffe": 940057,
+        "FOCUS_GER_solve_the_logistical_bottlenecks": 940058,
+        "FOCUS_GER_experimental_rotorcrafts": 940059,
+        "FOCUS_GER_develop_the_knickebein": 940060,
+        "FOCUS_GER_defense_of_the_reich": 940061,
+        "FOCUS_GER_construct_the_kammhuber_line": 940062,
+        "FOCUS_GER_establish_night_fighter_squadrons": 940063,
+        "FOCUS_GER_torpedobomber": 940064,
+        "FOCUS_GER_establish_carrier_groups": 940065,
+        "FOCUS_GER_aerodynamic_research_institute": 940066,
+        "FOCUS_GER_amerikabomber": 940067,
+        "FOCUS_GER_strengthen_the_kriegsmarine": 940068,
+        "FOCUS_GER_plan_z": 940069,
+        "FOCUS_GER_expand_kriegsmarinewerft": 940070,
+        "FOCUS_GER_construct_aircraft_carriers": 940071,
+        "FOCUS_GER_grosskampfschiff_construction": 940072,
+        "FOCUS_GER_high_seas_fleet": 940073,
+        "FOCUS_GER_re_establish_the_seekriegsleitung": 940074,
+        "FOCUS_GER_marinestosstrupp": 940075,
+        "FOCUS_GER_atlantic_naval_bases": 940076,
+        "FOCUS_GER_atlantic_naval_dominance": 940077,
+        "FOCUS_GER_trade_interdiction": 940078,
+        "FOCUS_GER_cruiser_warfare": 940079,
+        "FOCUS_GER_panzerschiff_raiders": 940080,
+        "FOCUS_GER_wolfpack_tactics": 940081,
+        "FOCUS_GER_u_boat_efforts": 940082,
+        "FOCUS_GER_unrestricted_convoy_raiding": 940083,
+        "FOCUS_GER_seeherrschaft": 940084,
+        "FOCUS_GER_remilitarize_the_rhineland": 940085,
+        "FOCUS_GER_legion_condor": 940086,
+        "FOCUS_GER_heed_von_neuraths_concerns": 940087,
+        "FOCUS_GER_war_preparations": 940088,
+        "FOCUS_GER_prepare_for_the_next_blockade_ww": 940089,
+        "FOCUS_GER_reorganize_secret_services": 940090,
+        "FOCUS_GER_subversive_infiltrators": 940091,
+        "FOCUS_GER_befriend_czechoslovakia": 940092,
+        "FOCUS_GER_integrate_czechoslovakia": 940093,
+        "FOCUS_GER_anschluss": 940094,
+        "FOCUS_GER_bribe_senior_officers": 940095,
+        "FOCUS_GER_army_indoctrination": 940096,
+        "FOCUS_GER_strafbataillon": 940097,
+        "FOCUS_GER_autonomy_in_the_kriegsschulen": 940098,
+        "FOCUS_GER_expand_the_truppenschulen": 940099,
+        "FOCUS_GER_innovative_warfare": 940100,
+        "FOCUS_GER_uplift_the_rosenberg_office": 940101,
+        "FOCUS_GER_expand_ss_recruitment": 940102,
+        "FOCUS_GER_demand_sudetenland": 940103,
+        "FOCUS_GER_first_vienna_award": 940104,
+        "FOCUS_GER_fate_of_czechoslovakia": 940105,
+        "FOCUS_GER_integrate_czech_manufacturers": 940106,
+        "FOCUS_GER_demonstration_of_military_achievements": 940107,
+        "FOCUS_GER_an_invincible_army": 940108,
+        "FOCUS_GER_the_supreme_leader": 940109,
+        "FOCUS_GER_the_triumphant_will": 940110,
+        "FOCUS_GER_support_a_coup_in_liechtenstein": 940111,
+        "FOCUS_GER_reassert_eastern_claims": 940112,
+        "FOCUS_GER_expand_claims_in_baltic": 940113,
+        "FOCUS_GER_influence_the_baltics": 940114,
+        "FOCUS_GER_second_vienna_award": 940115,
+        "FOCUS_GER_form_rome_berlin_axis": 940116,
+        "FOCUS_GER_invade_italy": 940117,
+        "FOCUS_GER_alliance_with_spain": 940118,
+        "FOCUS_GER_operation_felix": 940119,
+        "FOCUS_GER_alliance_with_portugal": 940120,
+        "FOCUS_GER_operation_isabella": 940121,
+        "FOCUS_GER_danzig_for_slovakia": 940122,
+        "FOCUS_GER_danzig_or_war": 940123,
+        "FOCUS_GER_befriend_poland": 940124,
+        "FOCUS_GER_subjugate_romanian_economy": 940125,
+        "FOCUS_GER_influence_the_benelux": 940126,
+        "FOCUS_GER_around_maginot": 940127,
+        "FOCUS_GER_operation_weserubung": 940128,
+        "FOCUS_GER_utilize_the_nordliche_gesellschaft": 940129,
+        "FOCUS_GER_war_with_france": 940130,
+        "FOCUS_GER_demands_to_sweden": 940131,
+        "FOCUS_GER_reintegrate_luxemburg_and_alsace_lorraine": 940132,
+        "FOCUS_GER_operation_tannenbaum": 940133,
+        "FOCUS_GER_the_swiss_gold": 940134,
+        "FOCUS_GER_secure_finland": 940135,
+        "FOCUS_GER_operation_sea_lion": 940136,
+        "FOCUS_GER_operation_green": 940137,
+        "FOCUS_GER_crossing_the_atlantic": 940138,
+        "FOCUS_GER_challenge_the_monroe_doctrine": 940139,
+        "FOCUS_GER_shatter_usas_hegemony": 940140,
+        "FOCUS_GER_establish_protectorates_in_america": 940141,
+        "FOCUS_GER_demand_slovenia": 940142,
+        "FOCUS_GER_first_ljubljana_award": 940143,
+        "FOCUS_GER_fate_of_yugoslavia": 940144,
+        "FOCUS_GER_second_ljubljana_award": 940145,
+        "FOCUS_GER_fate_of_greece": 940146,
+        "FOCUS_GER_war_with_greece": 940147,
+        "FOCUS_GER_reorganize_the_wehrmacht": 940148,
+        "FOCUS_GER_anti_comintern_pact": 940149,
+        "FOCUS_GER_anti_soviet_pact": 940150,
+        "FOCUS_GER_support_finland": 940151,
+        "FOCUS_GER_war_with_the_ussr": 940152,
+        "FOCUS_GER_molotov_ribbentrop_pact": 940153,
+        "FOCUS_GER_treaty_with_the_ussr": 940154,
+        "FOCUS_GER_alliance_with_the_ussr": 940155,
+        "FOCUS_GER_puppet_turkey": 940156,
+        "FOCUS_GER_befriend_turkey": 940157,
+        "FOCUS_GER_influence_the_middle_east": 940158,
+        "FOCUS_GER_the_final_blow_to_communism": 940159,
+        "FOCUS_GER_befriend_china": 940160,
+        "FOCUS_GER_befriend_japan": 940161,
+        "FOCUS_GER_reclaim_former_african_colonies": 940162,
+        "FOCUS_GER_mittelafrika": 940163,
+        "FOCUS_GER_re_establish_german_control_over_qingdao": 940164,
+        "FOCUS_GER_claim_old_colonies_in_the_east": 940165,
+        "FOCUS_GER_ally_chiang_kai_shek": 940166,
+        "FOCUS_GER_japanese_naval_cooperation": 940167,
+        "FOCUS_GER_negotiate_old_colonies_in_the_east": 940168,
+        "FOCUS_GER_sentinels_of_the_pacific": 940169,
+        "FOCUS_GER_create_asian_reichskommissariat": 940170,
+        "FOCUS_GER_south_east_asian_natural_wealth": 940171,
+        "FOCUS_GER_the_proud_eagle_and_the_resurgent_dragon": 940172,
+        "FOCUS_GER_blitzkrieg_across_the_pacific": 940173,
+        "FOCUS_GER_fuhrerprinzip": 940174,
+        "FOCUS_GER_ascension_of_todt": 940175,
+        "FOCUS_GER_form_organization_todt": 940176,
+        "FOCUS_GER_autonomous_organization_todt": 940177,
+        "FOCUS_GER_ascension_of_speer": 940178,
+        "FOCUS_GER_employ_philipp_holzmann": 940179,
+        "FOCUS_GER_plenipotentiary_of_armaments": 940180,
+        "FOCUS_GER_wunderwaffe": 940181,
+        "FOCUS_GER_ascension_of_goring": 940182,
+        "FOCUS_GER_prioritize_the_four_year_plan": 940183,
+        "FOCUS_GER_plenipotentiary_of_the_four_year_plan": 940184,
+        "FOCUS_GER_integration_of_puppet_economies": 940185,
+        "FOCUS_GER_ascension_of_himmler": 940186,
+        "FOCUS_GER_expand_gestapo": 940187,
+        "FOCUS_GER_absorb_the_abwehr": 940188,
+        "FOCUS_GER_expand_ss_security_duties": 940189,
+        "FOCUS_GER_strengthen_the_waffen_ss": 940190,
+        "FOCUS_GER_hegemony_of_the_ss": 940191,
+        "FOCUS_GER_ascension_of_goebbels": 940192,
+        "FOCUS_GER_ministry_of_public_enlightenment": 940193,
+        "FOCUS_GER_fund_the_film_department": 940194,
+        "FOCUS_GER_propaganda_master": 940195,
+        "FOCUS_GER_party_chancellor_hess": 940196,
+        "FOCUS_GER_party_chancellor_bormann": 940197,
+        "FOCUS_GER_optimize_reich_labour_service": 940198,
+        "FOCUS_GER_rally_the_industrialists": 940199,
+        "FOCUS_GER_glorify_party_rallies": 940200,
+        "FOCUS_GER_total_control_over_domestic_affairs": 940201,
+        "FOCUS_GER_a_strong_successor": 940202,
+        "FOCUS_GER_loyalty_to_the_fuhrer": 940203
+    },
+    "items": {
+        "941001": "set_country_flag ap_key_GER_construct_the_reichsautobahn",
+        "941002": "set_country_flag ap_key_GER_build_the_rur_dam",
+        "941003": "set_country_flag ap_key_GER_trade_deal_with_sweden",
+        "941004": "set_country_flag ap_key_GER_kdf_wagen_factories",
+        "941005": "set_country_flag ap_key_GER_expand_the_reichsautobahn_south",
+        "941006": "set_country_flag ap_key_GER_expand_the_reichsautobahn_east",
+        "941007": "set_country_flag ap_key_GER_develop_heraeus_facilities",
+        "941008": "set_country_flag ap_key_GER_the_four_year_plan",
+        "941009": "set_country_flag ap_key_GER_autarky_efforts",
+        "941010": "set_country_flag ap_key_GER_institute_price_controls",
+        "941011": "set_country_flag ap_key_GER_establish_the_reichswerke",
+        "941012": "set_country_flag ap_key_GER_seize_foreign_industries",
+        "941013": "set_country_flag ap_key_GER_coal_liquefaction",
+        "941014": "set_country_flag ap_key_GER_subsidize_hoesch_benzin",
+        "941015": "set_country_flag ap_key_GER_establish_buna_werke",
+        "941016": "set_country_flag ap_key_GER_autarky_achieved",
+        "941017": "set_country_flag ap_key_GER_accelerate_the_rearmament_program",
+        "941018": "set_country_flag ap_key_GER_concentrated_armament_program",
+        "941019": "set_country_flag ap_key_GER_establish_production_targets",
+        "941020": "set_country_flag ap_key_GER_prioritize_the_army",
+        "941021": "set_country_flag ap_key_GER_prioritize_the_navy",
+        "941022": "set_country_flag ap_key_GER_zentrale_planung",
+        "941023": "set_country_flag ap_key_GER_create_rustungsstab",
+        "941024": "set_country_flag ap_key_GER_armament_rationalization",
+        "941025": "set_country_flag ap_key_GER_totaler_krieg",
+        "941026": "set_country_flag ap_key_GER_develop_modern_maneuver_warfare",
+        "941027": "set_country_flag ap_key_GER_fortify_the_vaterland",
+        "941028": "set_country_flag ap_key_GER_the_prussian_legacy",
+        "941029": "set_country_flag ap_key_GER_improve_motorized_troops",
+        "941030": "set_country_flag ap_key_GER_lessons_of_the_great_war",
+        "941031": "set_country_flag ap_key_GER_artillery_bombardment",
+        "941032": "set_country_flag ap_key_GER_stormtroopers",
+        "941033": "set_country_flag ap_key_GER_all_terrain_military_motorcycle",
+        "941034": "set_country_flag ap_key_GER_salvage_captured_equipment",
+        "941035": "set_country_flag ap_key_GER_instill_auftragstaktik",
+        "941036": "set_country_flag ap_key_GER_establish_the_afrikakorps",
+        "941037": "set_country_flag ap_key_GER_establish_the_skijager",
+        "941038": "set_country_flag ap_key_GER_panzergrenadier",
+        "941039": "set_country_flag ap_key_GER_nationalize_ford_factories",
+        "941040": "set_country_flag ap_key_GER_kriegslokomotiven",
+        "941041": "set_country_flag ap_key_GER_improve_the_logistics_system",
+        "941042": "set_country_flag ap_key_GER_defend_the_vaterland",
+        "941043": "set_country_flag ap_key_GER_uranverein",
+        "941044": "set_country_flag ap_key_GER_adopt_new_panzer_doctrine",
+        "941045": "set_country_flag ap_key_GER_panzer_troops_school",
+        "941046": "set_country_flag ap_key_GER_advanced_panzer_research",
+        "941047": "set_country_flag ap_key_GER_expand_kummersdorfs_capacity",
+        "941048": "set_country_flag ap_key_GER_combined_arms",
+        "941049": "set_country_flag ap_key_GER_expanding_the_luftwaffe",
+        "941050": "set_country_flag ap_key_GER_aeronautical_research_institute",
+        "941051": "set_country_flag ap_key_GER_dive_bombers",
+        "941052": "set_country_flag ap_key_GER_tactical_bombers",
+        "941053": "set_country_flag ap_key_GER_uralbomber_program",
+        "941054": "set_country_flag ap_key_GER_rocketry_innovations",
+        "941055": "set_country_flag ap_key_GER_fallschirmjager",
+        "941056": "set_country_flag ap_key_GER_form_the_jagdwaffe",
+        "941057": "set_country_flag ap_key_GER_reorganize_the_luftwaffe",
+        "941058": "set_country_flag ap_key_GER_solve_the_logistical_bottlenecks",
+        "941059": "set_country_flag ap_key_GER_experimental_rotorcrafts",
+        "941060": "set_country_flag ap_key_GER_develop_the_knickebein",
+        "941061": "set_country_flag ap_key_GER_defense_of_the_reich",
+        "941062": "set_country_flag ap_key_GER_construct_the_kammhuber_line",
+        "941063": "set_country_flag ap_key_GER_establish_night_fighter_squadrons",
+        "941064": "set_country_flag ap_key_GER_torpedobomber",
+        "941065": "set_country_flag ap_key_GER_establish_carrier_groups",
+        "941066": "set_country_flag ap_key_GER_aerodynamic_research_institute",
+        "941067": "set_country_flag ap_key_GER_amerikabomber",
+        "941068": "set_country_flag ap_key_GER_strengthen_the_kriegsmarine",
+        "941069": "set_country_flag ap_key_GER_plan_z",
+        "941070": "set_country_flag ap_key_GER_expand_kriegsmarinewerft",
+        "941071": "set_country_flag ap_key_GER_construct_aircraft_carriers",
+        "941072": "set_country_flag ap_key_GER_grosskampfschiff_construction",
+        "941073": "set_country_flag ap_key_GER_high_seas_fleet",
+        "941074": "set_country_flag ap_key_GER_re_establish_the_seekriegsleitung",
+        "941075": "set_country_flag ap_key_GER_marinestosstrupp",
+        "941076": "set_country_flag ap_key_GER_atlantic_naval_bases",
+        "941077": "set_country_flag ap_key_GER_atlantic_naval_dominance",
+        "941078": "set_country_flag ap_key_GER_trade_interdiction",
+        "941079": "set_country_flag ap_key_GER_cruiser_warfare",
+        "941080": "set_country_flag ap_key_GER_panzerschiff_raiders",
+        "941081": "set_country_flag ap_key_GER_wolfpack_tactics",
+        "941082": "set_country_flag ap_key_GER_u_boat_efforts",
+        "941083": "set_country_flag ap_key_GER_unrestricted_convoy_raiding",
+        "941084": "set_country_flag ap_key_GER_seeherrschaft",
+        "941085": "set_country_flag ap_key_GER_remilitarize_the_rhineland",
+        "941086": "set_country_flag ap_key_GER_legion_condor",
+        "941087": "set_country_flag ap_key_GER_heed_von_neuraths_concerns",
+        "941088": "set_country_flag ap_key_GER_war_preparations",
+        "941089": "set_country_flag ap_key_GER_prepare_for_the_next_blockade_ww",
+        "941090": "set_country_flag ap_key_GER_reorganize_secret_services",
+        "941091": "set_country_flag ap_key_GER_subversive_infiltrators",
+        "941092": "set_country_flag ap_key_GER_befriend_czechoslovakia",
+        "941093": "set_country_flag ap_key_GER_integrate_czechoslovakia",
+        "941094": "set_country_flag ap_key_GER_anschluss",
+        "941095": "set_country_flag ap_key_GER_bribe_senior_officers",
+        "941096": "set_country_flag ap_key_GER_army_indoctrination",
+        "941097": "set_country_flag ap_key_GER_strafbataillon",
+        "941098": "set_country_flag ap_key_GER_autonomy_in_the_kriegsschulen",
+        "941099": "set_country_flag ap_key_GER_expand_the_truppenschulen",
+        "941100": "set_country_flag ap_key_GER_innovative_warfare",
+        "941101": "set_country_flag ap_key_GER_uplift_the_rosenberg_office",
+        "941102": "set_country_flag ap_key_GER_expand_ss_recruitment",
+        "941103": "set_country_flag ap_key_GER_demand_sudetenland",
+        "941104": "set_country_flag ap_key_GER_first_vienna_award",
+        "941105": "set_country_flag ap_key_GER_fate_of_czechoslovakia",
+        "941106": "set_country_flag ap_key_GER_integrate_czech_manufacturers",
+        "941107": "set_country_flag ap_key_GER_demonstration_of_military_achievements",
+        "941108": "set_country_flag ap_key_GER_an_invincible_army",
+        "941109": "set_country_flag ap_key_GER_the_supreme_leader",
+        "941110": "set_country_flag ap_key_GER_the_triumphant_will",
+        "941111": "set_country_flag ap_key_GER_support_a_coup_in_liechtenstein",
+        "941112": "set_country_flag ap_key_GER_reassert_eastern_claims",
+        "941113": "set_country_flag ap_key_GER_expand_claims_in_baltic",
+        "941114": "set_country_flag ap_key_GER_influence_the_baltics",
+        "941115": "set_country_flag ap_key_GER_second_vienna_award",
+        "941116": "set_country_flag ap_key_GER_form_rome_berlin_axis",
+        "941117": "set_country_flag ap_key_GER_invade_italy",
+        "941118": "set_country_flag ap_key_GER_alliance_with_spain",
+        "941119": "set_country_flag ap_key_GER_operation_felix",
+        "941120": "set_country_flag ap_key_GER_alliance_with_portugal",
+        "941121": "set_country_flag ap_key_GER_operation_isabella",
+        "941122": "set_country_flag ap_key_GER_danzig_for_slovakia",
+        "941123": "set_country_flag ap_key_GER_danzig_or_war",
+        "941124": "set_country_flag ap_key_GER_befriend_poland",
+        "941125": "set_country_flag ap_key_GER_subjugate_romanian_economy",
+        "941126": "set_country_flag ap_key_GER_influence_the_benelux",
+        "941127": "set_country_flag ap_key_GER_around_maginot",
+        "941128": "set_country_flag ap_key_GER_operation_weserubung",
+        "941129": "set_country_flag ap_key_GER_utilize_the_nordliche_gesellschaft",
+        "941130": "set_country_flag ap_key_GER_war_with_france",
+        "941131": "set_country_flag ap_key_GER_demands_to_sweden",
+        "941132": "set_country_flag ap_key_GER_reintegrate_luxemburg_and_alsace_lorraine",
+        "941133": "set_country_flag ap_key_GER_operation_tannenbaum",
+        "941134": "set_country_flag ap_key_GER_the_swiss_gold",
+        "941135": "set_country_flag ap_key_GER_secure_finland",
+        "941136": "set_country_flag ap_key_GER_operation_sea_lion",
+        "941137": "set_country_flag ap_key_GER_operation_green",
+        "941138": "set_country_flag ap_key_GER_crossing_the_atlantic",
+        "941139": "set_country_flag ap_key_GER_challenge_the_monroe_doctrine",
+        "941140": "set_country_flag ap_key_GER_shatter_usas_hegemony",
+        "941141": "set_country_flag ap_key_GER_establish_protectorates_in_america",
+        "941142": "set_country_flag ap_key_GER_demand_slovenia",
+        "941143": "set_country_flag ap_key_GER_first_ljubljana_award",
+        "941144": "set_country_flag ap_key_GER_fate_of_yugoslavia",
+        "941145": "set_country_flag ap_key_GER_second_ljubljana_award",
+        "941146": "set_country_flag ap_key_GER_fate_of_greece",
+        "941147": "set_country_flag ap_key_GER_war_with_greece",
+        "941148": "set_country_flag ap_key_GER_reorganize_the_wehrmacht",
+        "941149": "set_country_flag ap_key_GER_anti_comintern_pact",
+        "941150": "set_country_flag ap_key_GER_anti_soviet_pact",
+        "941151": "set_country_flag ap_key_GER_support_finland",
+        "941152": "set_country_flag ap_key_GER_war_with_the_ussr",
+        "941153": "set_country_flag ap_key_GER_molotov_ribbentrop_pact",
+        "941154": "set_country_flag ap_key_GER_treaty_with_the_ussr",
+        "941155": "set_country_flag ap_key_GER_alliance_with_the_ussr",
+        "941156": "set_country_flag ap_key_GER_puppet_turkey",
+        "941157": "set_country_flag ap_key_GER_befriend_turkey",
+        "941158": "set_country_flag ap_key_GER_influence_the_middle_east",
+        "941159": "set_country_flag ap_key_GER_the_final_blow_to_communism",
+        "941160": "set_country_flag ap_key_GER_befriend_china",
+        "941161": "set_country_flag ap_key_GER_befriend_japan",
+        "941162": "set_country_flag ap_key_GER_reclaim_former_african_colonies",
+        "941163": "set_country_flag ap_key_GER_mittelafrika",
+        "941164": "set_country_flag ap_key_GER_re_establish_german_control_over_qingdao",
+        "941165": "set_country_flag ap_key_GER_claim_old_colonies_in_the_east",
+        "941166": "set_country_flag ap_key_GER_ally_chiang_kai_shek",
+        "941167": "set_country_flag ap_key_GER_japanese_naval_cooperation",
+        "941168": "set_country_flag ap_key_GER_negotiate_old_colonies_in_the_east",
+        "941169": "set_country_flag ap_key_GER_sentinels_of_the_pacific",
+        "941170": "set_country_flag ap_key_GER_create_asian_reichskommissariat",
+        "941171": "set_country_flag ap_key_GER_south_east_asian_natural_wealth",
+        "941172": "set_country_flag ap_key_GER_the_proud_eagle_and_the_resurgent_dragon",
+        "941173": "set_country_flag ap_key_GER_blitzkrieg_across_the_pacific",
+        "941174": "set_country_flag ap_key_GER_fuhrerprinzip",
+        "941175": "set_country_flag ap_key_GER_ascension_of_todt",
+        "941176": "set_country_flag ap_key_GER_form_organization_todt",
+        "941177": "set_country_flag ap_key_GER_autonomous_organization_todt",
+        "941178": "set_country_flag ap_key_GER_ascension_of_speer",
+        "941179": "set_country_flag ap_key_GER_employ_philipp_holzmann",
+        "941180": "set_country_flag ap_key_GER_plenipotentiary_of_armaments",
+        "941181": "set_country_flag ap_key_GER_wunderwaffe",
+        "941182": "set_country_flag ap_key_GER_ascension_of_goring",
+        "941183": "set_country_flag ap_key_GER_prioritize_the_four_year_plan",
+        "941184": "set_country_flag ap_key_GER_plenipotentiary_of_the_four_year_plan",
+        "941185": "set_country_flag ap_key_GER_integration_of_puppet_economies",
+        "941186": "set_country_flag ap_key_GER_ascension_of_himmler",
+        "941187": "set_country_flag ap_key_GER_expand_gestapo",
+        "941188": "set_country_flag ap_key_GER_absorb_the_abwehr",
+        "941189": "set_country_flag ap_key_GER_expand_ss_security_duties",
+        "941190": "set_country_flag ap_key_GER_strengthen_the_waffen_ss",
+        "941191": "set_country_flag ap_key_GER_hegemony_of_the_ss",
+        "941192": "set_country_flag ap_key_GER_ascension_of_goebbels",
+        "941193": "set_country_flag ap_key_GER_ministry_of_public_enlightenment",
+        "941194": "set_country_flag ap_key_GER_fund_the_film_department",
+        "941195": "set_country_flag ap_key_GER_propaganda_master",
+        "941196": "set_country_flag ap_key_GER_party_chancellor_hess",
+        "941197": "set_country_flag ap_key_GER_party_chancellor_bormann",
+        "941198": "set_country_flag ap_key_GER_optimize_reich_labour_service",
+        "941199": "set_country_flag ap_key_GER_rally_the_industrialists",
+        "941200": "set_country_flag ap_key_GER_glorify_party_rallies",
+        "941201": "set_country_flag ap_key_GER_total_control_over_domestic_affairs",
+        "941202": "set_country_flag ap_key_GER_a_strong_successor",
+        "941203": "set_country_flag ap_key_GER_loyalty_to_the_fuhrer"
+    },
+    "tree_rules": {
+        "GER_construct_the_reichsautobahn": [
+            [
+                "GER_prioritize_economic_growth",
+                "GER_the_four_year_plan"
+            ]
+        ],
+        "GER_build_the_rur_dam": [
+            [
+                "GER_construct_the_reichsautobahn",
+                "GER_currency_reforms"
+            ]
+        ],
+        "GER_trade_deal_with_sweden": [
+            [
+                "GER_construct_the_reichsautobahn",
+                "GER_autarky_efforts"
+            ]
+        ],
+        "GER_kdf_wagen_factories": [
+            [
+                "GER_construct_the_reichsautobahn"
+            ]
+        ],
+        "GER_expand_the_reichsautobahn_south": [
+            [
+                "GER_kdf_wagen_factories"
+            ]
+        ],
+        "GER_expand_the_reichsautobahn_east": [
+            [
+                "GER_kdf_wagen_factories"
+            ]
+        ],
+        "GER_develop_heraeus_facilities": [
+            [
+                "GER_kdf_wagen_factories"
+            ]
+        ],
+        "GER_the_four_year_plan": [],
+        "GER_autarky_efforts": [
+            [
+                "GER_the_four_year_plan"
+            ]
+        ],
+        "GER_institute_price_controls": [
+            [
+                "GER_autarky_efforts"
+            ]
+        ],
+        "GER_establish_the_reichswerke": [
+            [
+                "GER_autarky_efforts"
+            ]
+        ],
+        "GER_seize_foreign_industries": [
+            [
+                "GER_establish_the_reichswerke"
+            ]
+        ],
+        "GER_coal_liquefaction": [
+            [
+                "GER_autarky_efforts"
+            ]
+        ],
+        "GER_subsidize_hoesch_benzin": [
+            [
+                "GER_coal_liquefaction"
+            ]
+        ],
+        "GER_establish_buna_werke": [
+            [
+                "GER_coal_liquefaction"
+            ]
+        ],
+        "GER_autarky_achieved": [
+            [
+                "GER_seize_foreign_industries"
+            ],
+            [
+                "GER_subsidize_hoesch_benzin"
+            ],
+            [
+                "GER_establish_buna_werke"
+            ]
+        ],
+        "GER_accelerate_the_rearmament_program": [
+            [
+                "GER_the_four_year_plan"
+            ]
+        ],
+        "GER_concentrated_armament_program": [
+            [
+                "GER_accelerate_the_rearmament_program"
+            ]
+        ],
+        "GER_establish_production_targets": [
+            [
+                "GER_accelerate_the_rearmament_program"
+            ]
+        ],
+        "GER_prioritize_the_army": [
+            [
+                "GER_concentrated_armament_program"
+            ]
+        ],
+        "GER_prioritize_the_navy": [
+            [
+                "GER_concentrated_armament_program"
+            ]
+        ],
+        "GER_zentrale_planung": [
+            [
+                "GER_concentrated_armament_program",
+                "GER_establish_production_targets"
+            ]
+        ],
+        "GER_create_rustungsstab": [
+            [
+                "GER_zentrale_planung"
+            ]
+        ],
+        "GER_armament_rationalization": [
+            [
+                "GER_zentrale_planung"
+            ]
+        ],
+        "GER_totaler_krieg": [
+            [
+                "GER_create_rustungsstab"
+            ],
+            [
+                "GER_armament_rationalization"
+            ]
+        ],
+        "GER_develop_modern_maneuver_warfare": [],
+        "GER_fortify_the_vaterland": [
+            [
+                "GER_develop_modern_maneuver_warfare"
+            ]
+        ],
+        "GER_the_prussian_legacy": [
+            [
+                "GER_develop_modern_maneuver_warfare"
+            ]
+        ],
+        "GER_improve_motorized_troops": [
+            [
+                "GER_the_prussian_legacy"
+            ]
+        ],
+        "GER_lessons_of_the_great_war": [
+            [
+                "GER_the_prussian_legacy"
+            ]
+        ],
+        "GER_artillery_bombardment": [
+            [
+                "GER_lessons_of_the_great_war"
+            ],
+            [
+                "GER_improve_motorized_troops"
+            ]
+        ],
+        "GER_stormtroopers": [
+            [
+                "GER_artillery_bombardment"
+            ]
+        ],
+        "GER_all_terrain_military_motorcycle": [
+            [
+                "GER_the_prussian_legacy",
+                "GER_adopt_new_panzer_doctrine"
+            ]
+        ],
+        "GER_salvage_captured_equipment": [
+            [
+                "GER_the_prussian_legacy",
+                "GER_adopt_new_panzer_doctrine"
+            ]
+        ],
+        "GER_instill_auftragstaktik": [
+            [
+                "GER_the_prussian_legacy",
+                "GER_adopt_new_panzer_doctrine"
+            ]
+        ],
+        "GER_establish_the_afrikakorps": [
+            [
+                "GER_instill_auftragstaktik"
+            ]
+        ],
+        "GER_establish_the_skijager": [
+            [
+                "GER_instill_auftragstaktik"
+            ]
+        ],
+        "GER_panzergrenadier": [
+            [
+                "GER_instill_auftragstaktik"
+            ]
+        ],
+        "GER_nationalize_ford_factories": [
+            [
+                "GER_panzergrenadier"
+            ]
+        ],
+        "GER_kriegslokomotiven": [
+            [
+                "GER_panzergrenadier"
+            ]
+        ],
+        "GER_improve_the_logistics_system": [
+            [
+                "GER_panzergrenadier"
+            ]
+        ],
+        "GER_defend_the_vaterland": [
+            [
+                "GER_panzergrenadier"
+            ]
+        ],
+        "GER_uranverein": [
+            [
+                "GER_improve_the_logistics_system",
+                "GER_defend_the_vaterland"
+            ]
+        ],
+        "GER_adopt_new_panzer_doctrine": [
+            [
+                "GER_develop_modern_maneuver_warfare"
+            ]
+        ],
+        "GER_panzer_troops_school": [
+            [
+                "GER_adopt_new_panzer_doctrine"
+            ]
+        ],
+        "GER_advanced_panzer_research": [
+            [
+                "GER_adopt_new_panzer_doctrine"
+            ]
+        ],
+        "GER_expand_kummersdorfs_capacity": [
+            [
+                "GER_advanced_panzer_research"
+            ],
+            [
+                "GER_panzer_troops_school"
+            ]
+        ],
+        "GER_combined_arms": [
+            [
+                "GER_advanced_panzer_research"
+            ],
+            [
+                "GER_dive_bombers"
+            ]
+        ],
+        "GER_expanding_the_luftwaffe": [],
+        "GER_aeronautical_research_institute": [
+            [
+                "GER_expanding_the_luftwaffe"
+            ]
+        ],
+        "GER_dive_bombers": [
+            [
+                "GER_aeronautical_research_institute"
+            ]
+        ],
+        "GER_tactical_bombers": [
+            [
+                "GER_aeronautical_research_institute"
+            ]
+        ],
+        "GER_uralbomber_program": [
+            [
+                "GER_aeronautical_research_institute"
+            ]
+        ],
+        "GER_rocketry_innovations": [
+            [
+                "GER_dive_bombers",
+                "GER_tactical_bombers",
+                "GER_uralbomber_program"
+            ]
+        ],
+        "GER_fallschirmjager": [
+            [
+                "GER_expanding_the_luftwaffe"
+            ]
+        ],
+        "GER_form_the_jagdwaffe": [
+            [
+                "GER_expanding_the_luftwaffe"
+            ]
+        ],
+        "GER_reorganize_the_luftwaffe": [
+            [
+                "GER_form_the_jagdwaffe"
+            ]
+        ],
+        "GER_solve_the_logistical_bottlenecks": [
+            [
+                "GER_reorganize_the_luftwaffe"
+            ]
+        ],
+        "GER_experimental_rotorcrafts": [
+            [
+                "GER_form_the_jagdwaffe"
+            ]
+        ],
+        "GER_develop_the_knickebein": [
+            [
+                "GER_form_the_jagdwaffe"
+            ]
+        ],
+        "GER_defense_of_the_reich": [
+            [
+                "GER_reorganize_the_luftwaffe",
+                "GER_develop_the_knickebein"
+            ]
+        ],
+        "GER_construct_the_kammhuber_line": [
+            [
+                "GER_defense_of_the_reich"
+            ]
+        ],
+        "GER_establish_night_fighter_squadrons": [
+            [
+                "GER_defense_of_the_reich"
+            ]
+        ],
+        "GER_torpedobomber": [
+            [
+                "GER_develop_the_knickebein"
+            ]
+        ],
+        "GER_establish_carrier_groups": [
+            [
+                "GER_torpedobomber"
+            ],
+            [
+                "GER_construct_aircraft_carriers"
+            ]
+        ],
+        "GER_aerodynamic_research_institute": [
+            [
+                "GER_solve_the_logistical_bottlenecks",
+                "GER_construct_the_kammhuber_line",
+                "GER_establish_night_fighter_squadrons"
+            ],
+            [
+                "GER_rocketry_innovations"
+            ]
+        ],
+        "GER_amerikabomber": [
+            [
+                "GER_aerodynamic_research_institute"
+            ]
+        ],
+        "GER_strengthen_the_kriegsmarine": [],
+        "GER_plan_z": [
+            [
+                "GER_strengthen_the_kriegsmarine"
+            ]
+        ],
+        "GER_expand_kriegsmarinewerft": [
+            [
+                "GER_plan_z"
+            ]
+        ],
+        "GER_construct_aircraft_carriers": [
+            [
+                "GER_expand_kriegsmarinewerft"
+            ]
+        ],
+        "GER_grosskampfschiff_construction": [
+            [
+                "GER_expand_kriegsmarinewerft"
+            ]
+        ],
+        "GER_high_seas_fleet": [
+            [
+                "GER_expand_kriegsmarinewerft"
+            ]
+        ],
+        "GER_re_establish_the_seekriegsleitung": [
+            [
+                "GER_strengthen_the_kriegsmarine"
+            ]
+        ],
+        "GER_marinestosstrupp": [
+            [
+                "GER_re_establish_the_seekriegsleitung"
+            ]
+        ],
+        "GER_atlantic_naval_bases": [
+            [
+                "GER_re_establish_the_seekriegsleitung"
+            ]
+        ],
+        "GER_atlantic_naval_dominance": [
+            [
+                "GER_marinestosstrupp",
+                "GER_atlantic_naval_bases"
+            ]
+        ],
+        "GER_trade_interdiction": [
+            [
+                "GER_strengthen_the_kriegsmarine"
+            ]
+        ],
+        "GER_cruiser_warfare": [
+            [
+                "GER_trade_interdiction"
+            ]
+        ],
+        "GER_panzerschiff_raiders": [
+            [
+                "GER_cruiser_warfare"
+            ]
+        ],
+        "GER_wolfpack_tactics": [
+            [
+                "GER_trade_interdiction"
+            ]
+        ],
+        "GER_u_boat_efforts": [
+            [
+                "GER_wolfpack_tactics"
+            ]
+        ],
+        "GER_unrestricted_convoy_raiding": [
+            [
+                "GER_panzerschiff_raiders",
+                "GER_u_boat_efforts"
+            ]
+        ],
+        "GER_seeherrschaft": [
+            [
+                "GER_high_seas_fleet"
+            ],
+            [
+                "GER_unrestricted_convoy_raiding"
+            ]
+        ],
+        "GER_remilitarize_the_rhineland": [],
+        "GER_legion_condor": [
+            [
+                "GER_remilitarize_the_rhineland",
+                "GER_oppose_hitler_ww",
+                "GER_oppose_hitler"
+            ]
+        ],
+        "GER_heed_von_neuraths_concerns": [
+            [
+                "GER_remilitarize_the_rhineland"
+            ]
+        ],
+        "GER_war_preparations": [
+            [
+                "GER_heed_von_neuraths_concerns"
+            ]
+        ],
+        "GER_prepare_for_the_next_blockade_ww": [
+            [
+                "GER_war_preparations"
+            ]
+        ],
+        "GER_reorganize_secret_services": [
+            [
+                "GER_war_preparations"
+            ]
+        ],
+        "GER_subversive_infiltrators": [
+            [
+                "GER_reorganize_secret_services"
+            ]
+        ],
+        "GER_befriend_czechoslovakia": [
+            [
+                "GER_war_preparations"
+            ]
+        ],
+        "GER_integrate_czechoslovakia": [
+            [
+                "GER_befriend_czechoslovakia"
+            ]
+        ],
+        "GER_anschluss": [
+            [
+                "GER_reorganize_the_wehrmacht",
+                "GER_heed_von_neuraths_concerns"
+            ]
+        ],
+        "GER_bribe_senior_officers": [
+            [
+                "GER_remilitarize_the_rhineland"
+            ]
+        ],
+        "GER_army_indoctrination": [
+            [
+                "GER_bribe_senior_officers"
+            ]
+        ],
+        "GER_strafbataillon": [
+            [
+                "GER_army_indoctrination"
+            ]
+        ],
+        "GER_autonomy_in_the_kriegsschulen": [
+            [
+                "GER_bribe_senior_officers"
+            ]
+        ],
+        "GER_expand_the_truppenschulen": [
+            [
+                "GER_autonomy_in_the_kriegsschulen"
+            ]
+        ],
+        "GER_innovative_warfare": [
+            [
+                "GER_army_indoctrination",
+                "GER_autonomy_in_the_kriegsschulen"
+            ]
+        ],
+        "GER_uplift_the_rosenberg_office": [
+            [
+                "GER_heed_von_neuraths_concerns",
+                "GER_reorganize_the_wehrmacht"
+            ]
+        ],
+        "GER_expand_ss_recruitment": [
+            [
+                "GER_uplift_the_rosenberg_office"
+            ]
+        ],
+        "GER_demand_sudetenland": [
+            [
+                "GER_anschluss"
+            ]
+        ],
+        "GER_first_vienna_award": [
+            [
+                "GER_demand_sudetenland"
+            ]
+        ],
+        "GER_fate_of_czechoslovakia": [
+            [
+                "GER_first_vienna_award"
+            ]
+        ],
+        "GER_integrate_czech_manufacturers": [
+            [
+                "GER_integrate_czechoslovakia",
+                "GER_fate_of_czechoslovakia"
+            ]
+        ],
+        "GER_demonstration_of_military_achievements": [
+            [
+                "GER_anschluss"
+            ]
+        ],
+        "GER_an_invincible_army": [
+            [
+                "GER_demonstration_of_military_achievements"
+            ]
+        ],
+        "GER_the_supreme_leader": [
+            [
+                "GER_an_invincible_army"
+            ]
+        ],
+        "GER_the_triumphant_will": [
+            [
+                "GER_anschluss"
+            ]
+        ],
+        "GER_support_a_coup_in_liechtenstein": [
+            [
+                "GER_anschluss"
+            ]
+        ],
+        "GER_reassert_eastern_claims": [
+            [
+                "GER_anschluss"
+            ]
+        ],
+        "GER_expand_claims_in_baltic": [
+            [
+                "GER_reassert_eastern_claims"
+            ]
+        ],
+        "GER_influence_the_baltics": [
+            [
+                "GER_reassert_eastern_claims"
+            ]
+        ],
+        "GER_second_vienna_award": [
+            [
+                "GER_fate_of_czechoslovakia",
+                "GER_integrate_czechoslovakia"
+            ]
+        ],
+        "GER_form_rome_berlin_axis": [
+            [
+                "GER_fate_of_czechoslovakia",
+                "GER_integrate_czechoslovakia"
+            ]
+        ],
+        "GER_invade_italy": [
+            [
+                "GER_around_maginot",
+                "GER_influence_the_benelux"
+            ]
+        ],
+        "GER_alliance_with_spain": [
+            [
+                "GER_form_rome_berlin_axis",
+                "GER_invade_italy"
+            ]
+        ],
+        "GER_operation_felix": [
+            [
+                "GER_form_rome_berlin_axis",
+                "GER_invade_italy"
+            ]
+        ],
+        "GER_alliance_with_portugal": [
+            [
+                "GER_alliance_with_spain",
+                "GER_operation_felix"
+            ]
+        ],
+        "GER_operation_isabella": [
+            [
+                "GER_operation_felix",
+                "GER_alliance_with_spain"
+            ]
+        ],
+        "GER_danzig_for_slovakia": [
+            [
+                "GER_fate_of_czechoslovakia",
+                "GER_integrate_czechoslovakia"
+            ]
+        ],
+        "GER_danzig_or_war": [
+            [
+                "GER_reassert_eastern_claims"
+            ]
+        ],
+        "GER_befriend_poland": [
+            [
+                "GER_danzig_for_slovakia"
+            ]
+        ],
+        "GER_subjugate_romanian_economy": [
+            [
+                "GER_danzig_for_slovakia",
+                "GER_danzig_or_war"
+            ]
+        ],
+        "GER_influence_the_benelux": [
+            [
+                "GER_danzig_for_slovakia",
+                "GER_danzig_or_war"
+            ]
+        ],
+        "GER_around_maginot": [
+            [
+                "GER_danzig_for_slovakia",
+                "GER_danzig_or_war"
+            ]
+        ],
+        "GER_operation_weserubung": [
+            [
+                "GER_danzig_or_war"
+            ]
+        ],
+        "GER_utilize_the_nordliche_gesellschaft": [
+            [
+                "GER_influence_the_baltics"
+            ]
+        ],
+        "GER_war_with_france": [
+            [
+                "GER_around_maginot",
+                "GER_operation_weserubung"
+            ]
+        ],
+        "GER_demands_to_sweden": [
+            [
+                "GER_operation_weserubung"
+            ]
+        ],
+        "GER_reintegrate_luxemburg_and_alsace_lorraine": [
+            [
+                "GER_war_with_france"
+            ]
+        ],
+        "GER_operation_tannenbaum": [
+            [
+                "GER_war_with_france"
+            ]
+        ],
+        "GER_the_swiss_gold": [
+            [
+                "GER_war_with_france"
+            ]
+        ],
+        "GER_secure_finland": [
+            [
+                "GER_operation_weserubung",
+                "GER_utilize_the_nordliche_gesellschaft"
+            ]
+        ],
+        "GER_operation_sea_lion": [
+            [
+                "GER_war_with_france",
+                "GER_invade_italy"
+            ]
+        ],
+        "GER_operation_green": [
+            [
+                "GER_operation_sea_lion"
+            ]
+        ],
+        "GER_crossing_the_atlantic": [
+            [
+                "GER_operation_sea_lion"
+            ]
+        ],
+        "GER_challenge_the_monroe_doctrine": [
+            [
+                "GER_crossing_the_atlantic"
+            ]
+        ],
+        "GER_shatter_usas_hegemony": [
+            [
+                "GER_crossing_the_atlantic"
+            ]
+        ],
+        "GER_establish_protectorates_in_america": [
+            [
+                "GER_challenge_the_monroe_doctrine",
+                "GER_shatter_usas_hegemony"
+            ]
+        ],
+        "GER_demand_slovenia": [
+            [
+                "GER_anschluss"
+            ]
+        ],
+        "GER_first_ljubljana_award": [
+            [
+                "GER_demand_slovenia"
+            ]
+        ],
+        "GER_fate_of_yugoslavia": [
+            [
+                "GER_first_ljubljana_award"
+            ]
+        ],
+        "GER_second_ljubljana_award": [
+            [
+                "GER_fate_of_yugoslavia"
+            ]
+        ],
+        "GER_fate_of_greece": [
+            [
+                "GER_second_ljubljana_award"
+            ]
+        ],
+        "GER_war_with_greece": [
+            [
+                "GER_fate_of_yugoslavia"
+            ]
+        ],
+        "GER_reorganize_the_wehrmacht": [
+            [
+                "GER_remilitarize_the_rhineland"
+            ]
+        ],
+        "GER_anti_comintern_pact": [
+            [
+                "GER_remilitarize_the_rhineland"
+            ]
+        ],
+        "GER_anti_soviet_pact": [
+            [
+                "GER_anti_comintern_pact"
+            ]
+        ],
+        "GER_support_finland": [
+            [
+                "GER_anti_soviet_pact"
+            ]
+        ],
+        "GER_war_with_the_ussr": [
+            [
+                "GER_anti_comintern_pact"
+            ]
+        ],
+        "GER_molotov_ribbentrop_pact": [
+            [
+                "GER_reorganize_the_wehrmacht"
+            ]
+        ],
+        "GER_treaty_with_the_ussr": [
+            [
+                "GER_molotov_ribbentrop_pact"
+            ]
+        ],
+        "GER_alliance_with_the_ussr": [
+            [
+                "GER_treaty_with_the_ussr"
+            ]
+        ],
+        "GER_puppet_turkey": [
+            [
+                "GER_alliance_with_the_ussr"
+            ]
+        ],
+        "GER_befriend_turkey": [
+            [
+                "GER_war_with_the_ussr"
+            ]
+        ],
+        "GER_influence_the_middle_east": [
+            [
+                "GER_puppet_turkey",
+                "GER_befriend_turkey"
+            ]
+        ],
+        "GER_the_final_blow_to_communism": [
+            [
+                "GER_war_with_the_ussr"
+            ]
+        ],
+        "GER_befriend_china": [
+            [
+                "GER_anti_comintern_pact"
+            ]
+        ],
+        "GER_befriend_japan": [
+            [
+                "GER_anti_comintern_pact"
+            ]
+        ],
+        "GER_reclaim_former_african_colonies": [
+            [
+                "GER_befriend_china",
+                "GER_befriend_japan"
+            ]
+        ],
+        "GER_mittelafrika": [
+            [
+                "GER_reclaim_former_african_colonies"
+            ]
+        ],
+        "GER_re_establish_german_control_over_qingdao": [
+            [
+                "GER_befriend_china"
+            ]
+        ],
+        "GER_claim_old_colonies_in_the_east": [
+            [
+                "GER_befriend_china"
+            ]
+        ],
+        "GER_ally_chiang_kai_shek": [
+            [
+                "GER_re_establish_german_control_over_qingdao"
+            ],
+            [
+                "GER_claim_old_colonies_in_the_east"
+            ]
+        ],
+        "GER_japanese_naval_cooperation": [
+            [
+                "GER_befriend_japan"
+            ]
+        ],
+        "GER_negotiate_old_colonies_in_the_east": [
+            [
+                "GER_befriend_japan"
+            ]
+        ],
+        "GER_sentinels_of_the_pacific": [
+            [
+                "GER_japanese_naval_cooperation"
+            ],
+            [
+                "GER_negotiate_old_colonies_in_the_east"
+            ]
+        ],
+        "GER_create_asian_reichskommissariat": [
+            [
+                "GER_ally_chiang_kai_shek",
+                "GER_negotiate_old_colonies_in_the_east"
+            ]
+        ],
+        "GER_south_east_asian_natural_wealth": [
+            [
+                "GER_ally_chiang_kai_shek",
+                "GER_negotiate_old_colonies_in_the_east"
+            ]
+        ],
+        "GER_the_proud_eagle_and_the_resurgent_dragon": [
+            [
+                "GER_ally_chiang_kai_shek"
+            ],
+            [
+                "GER_create_asian_reichskommissariat"
+            ]
+        ],
+        "GER_blitzkrieg_across_the_pacific": [
+            [
+                "GER_sentinels_of_the_pacific"
+            ],
+            [
+                "GER_south_east_asian_natural_wealth"
+            ]
+        ],
+        "GER_fuhrerprinzip": [
+            [
+                "GER_remilitarize_the_rhineland"
+            ]
+        ],
+        "GER_ascension_of_todt": [
+            [
+                "GER_fuhrerprinzip"
+            ]
+        ],
+        "GER_form_organization_todt": [
+            [
+                "GER_ascension_of_todt"
+            ]
+        ],
+        "GER_autonomous_organization_todt": [
+            [
+                "GER_form_organization_todt"
+            ]
+        ],
+        "GER_ascension_of_speer": [
+            [
+                "GER_fuhrerprinzip"
+            ]
+        ],
+        "GER_employ_philipp_holzmann": [
+            [
+                "GER_ascension_of_speer"
+            ]
+        ],
+        "GER_plenipotentiary_of_armaments": [
+            [
+                "GER_form_organization_todt",
+                "GER_employ_philipp_holzmann",
+                "GER_prioritize_the_four_year_plan"
+            ],
+            [
+                "GER_employ_philipp_holzmann"
+            ]
+        ],
+        "GER_wunderwaffe": [
+            [
+                "GER_autonomous_organization_todt",
+                "GER_plenipotentiary_of_armaments"
+            ]
+        ],
+        "GER_ascension_of_goring": [
+            [
+                "GER_fuhrerprinzip"
+            ]
+        ],
+        "GER_prioritize_the_four_year_plan": [
+            [
+                "GER_ascension_of_goring"
+            ]
+        ],
+        "GER_plenipotentiary_of_the_four_year_plan": [
+            [
+                "GER_prioritize_the_four_year_plan"
+            ]
+        ],
+        "GER_integration_of_puppet_economies": [
+            [
+                "GER_plenipotentiary_of_the_four_year_plan"
+            ]
+        ],
+        "GER_ascension_of_himmler": [
+            [
+                "GER_fuhrerprinzip"
+            ]
+        ],
+        "GER_expand_gestapo": [
+            [
+                "GER_ascension_of_himmler"
+            ]
+        ],
+        "GER_absorb_the_abwehr": [
+            [
+                "GER_expand_gestapo"
+            ]
+        ],
+        "GER_expand_ss_security_duties": [
+            [
+                "GER_ascension_of_himmler"
+            ]
+        ],
+        "GER_strengthen_the_waffen_ss": [
+            [
+                "GER_expand_ss_security_duties"
+            ]
+        ],
+        "GER_hegemony_of_the_ss": [
+            [
+                "GER_absorb_the_abwehr",
+                "GER_strengthen_the_waffen_ss"
+            ]
+        ],
+        "GER_ascension_of_goebbels": [
+            [
+                "GER_fuhrerprinzip"
+            ]
+        ],
+        "GER_ministry_of_public_enlightenment": [
+            [
+                "GER_ascension_of_goebbels"
+            ]
+        ],
+        "GER_fund_the_film_department": [
+            [
+                "GER_ministry_of_public_enlightenment"
+            ]
+        ],
+        "GER_propaganda_master": [
+            [
+                "GER_fund_the_film_department"
+            ]
+        ],
+        "GER_party_chancellor_hess": [
+            [
+                "GER_fuhrerprinzip"
+            ]
+        ],
+        "GER_party_chancellor_bormann": [
+            [
+                "GER_fuhrerprinzip"
+            ]
+        ],
+        "GER_optimize_reich_labour_service": [
+            [
+                "GER_party_chancellor_hess",
+                "GER_party_chancellor_bormann"
+            ]
+        ],
+        "GER_rally_the_industrialists": [
+            [
+                "GER_optimize_reich_labour_service"
+            ],
+            [
+                "GER_party_chancellor_hess"
+            ]
+        ],
+        "GER_glorify_party_rallies": [
+            [
+                "GER_optimize_reich_labour_service"
+            ],
+            [
+                "GER_party_chancellor_bormann"
+            ]
+        ],
+        "GER_total_control_over_domestic_affairs": [
+            [
+                "GER_glorify_party_rallies",
+                "GER_rally_the_industrialists"
+            ]
+        ],
+        "GER_a_strong_successor": [
+            [
+                "GER_hegemony_of_the_ss",
+                "GER_wunderwaffe",
+                "GER_integration_of_puppet_economies",
+                "GER_propaganda_master",
+                "GER_total_control_over_domestic_affairs"
+            ]
+        ],
+        "GER_loyalty_to_the_fuhrer": [
+            [
+                "GER_hegemony_of_the_ss",
+                "GER_wunderwaffe",
+                "GER_integration_of_puppet_economies",
+                "GER_propaganda_master",
+                "GER_total_control_over_domestic_affairs"
+            ]
+        ]
+    }
+}
