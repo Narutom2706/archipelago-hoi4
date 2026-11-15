@@ -1,0 +1,67 @@
+# Builds and publishes a release when a v* tag is pushed (git tag v0.2.0 && git push origin v0.2.0).
+# Manual runs upload the files as workflow artifacts.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependencies
+        run: pip install -r requirements.txt pyinstaller
+
+      - name: Tests
+        run: python -m pytest -q tests
+
+      - uses: microsoft/setup-msbuild@v2
+
+      - name: DLL (MSVC, Release x64)
+        run: >
+          msbuild hoi4_dll/ArchipelagoHOI4/ArchipelagoHOI4/ArchipelagoHOI4.vcxproj
+          /p:Configuration=Release /p:Platform=x64 /p:PlatformToolset=v143
+          /p:OutDir=${{ github.workspace }}\build\
+
+      - name: Player executable (PyInstaller)
+        run: >
+          pyinstaller --noconfirm --onefile --console --name HOI4_Archipelago
+          --add-data "mapping_germany.json;."
+          --hidden-import pynput.keyboard._win32 --hidden-import pynput.mouse._win32
+          --hidden-import inject_dll --hidden-import patch_germany_tree --hidden-import hoi4_archipelago_client
+          hoi4_archipelago.py
+
+      - name: APWorld
+        run: python tools/build_apworld.py dist/hoi4.apworld
+
+      - name: Player archive
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory release | Out-Null
+          Copy-Item dist/HOI4_Archipelago.exe, build/ArchipelagoHOI4.dll release/
+          Compress-Archive -Path release/* -DestinationPath "HOI4_Archipelago_${{ github.ref_name }}.zip"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: hoi4-archipelago
+          path: |
+            HOI4_Archipelago_*.zip
+            dist/hoi4.apworld
+
+      - uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            HOI4_Archipelago_*.zip
+            dist/hoi4.apworld

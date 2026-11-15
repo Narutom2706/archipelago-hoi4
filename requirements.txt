@@ -1,0 +1,7 @@
+websockets
+pynput
+
+# outils / tests
+pefile
+capstone
+pytest

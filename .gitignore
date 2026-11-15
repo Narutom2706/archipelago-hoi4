@@ -22,5 +22,14 @@ ap_cmd.txt
 *.log
 
 
-mock_server.py
-test_pipe.py
+# état local du client (uuid, index des items)
+ap_state/
+.pytest_cache/
+
+# sorties de build (PyInstaller, apworld)
+dist/
+build/
+*.spec
+
+# DLL compilée (construite par la GitHub Action, gardée en local pour les tests)
+/ArchipelagoHOI4.dll

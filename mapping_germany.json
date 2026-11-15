@@ -19,8 +19,6 @@
         "FOCUS_GER_accelerate_the_rearmament_program": 940017,
         "FOCUS_GER_concentrated_armament_program": 940018,
         "FOCUS_GER_establish_production_targets": 940019,
-        "FOCUS_GER_prioritize_the_army": 940020,
-        "FOCUS_GER_prioritize_the_navy": 940021,
         "FOCUS_GER_zentrale_planung": 940022,
         "FOCUS_GER_create_rustungsstab": 940023,
         "FOCUS_GER_armament_rationalization": 940024,
@@ -114,7 +112,6 @@
         "FOCUS_GER_reassert_eastern_claims": 940112,
         "FOCUS_GER_expand_claims_in_baltic": 940113,
         "FOCUS_GER_influence_the_baltics": 940114,
-        "FOCUS_GER_second_vienna_award": 940115,
         "FOCUS_GER_form_rome_berlin_axis": 940116,
         "FOCUS_GER_invade_italy": 940117,
         "FOCUS_GER_alliance_with_spain": 940118,
@@ -224,8 +221,6 @@
         "941017": "set_country_flag ap_key_GER_accelerate_the_rearmament_program",
         "941018": "set_country_flag ap_key_GER_concentrated_armament_program",
         "941019": "set_country_flag ap_key_GER_establish_production_targets",
-        "941020": "set_country_flag ap_key_GER_prioritize_the_army",
-        "941021": "set_country_flag ap_key_GER_prioritize_the_navy",
         "941022": "set_country_flag ap_key_GER_zentrale_planung",
         "941023": "set_country_flag ap_key_GER_create_rustungsstab",
         "941024": "set_country_flag ap_key_GER_armament_rationalization",
@@ -319,7 +314,6 @@
         "941112": "set_country_flag ap_key_GER_reassert_eastern_claims",
         "941113": "set_country_flag ap_key_GER_expand_claims_in_baltic",
         "941114": "set_country_flag ap_key_GER_influence_the_baltics",
-        "941115": "set_country_flag ap_key_GER_second_vienna_award",
         "941116": "set_country_flag ap_key_GER_form_rome_berlin_axis",
         "941117": "set_country_flag ap_key_GER_invade_italy",
         "941118": "set_country_flag ap_key_GER_alliance_with_spain",
@@ -508,16 +502,6 @@
         "GER_establish_production_targets": [
             [
                 "GER_accelerate_the_rearmament_program"
-            ]
-        ],
-        "GER_prioritize_the_army": [
-            [
-                "GER_concentrated_armament_program"
-            ]
-        ],
-        "GER_prioritize_the_navy": [
-            [
-                "GER_concentrated_armament_program"
             ]
         ],
         "GER_zentrale_planung": [
@@ -1008,12 +992,6 @@
                 "GER_reassert_eastern_claims"
             ]
         ],
-        "GER_second_vienna_award": [
-            [
-                "GER_fate_of_czechoslovakia",
-                "GER_integrate_czechoslovakia"
-            ]
-        ],
         "GER_form_rome_berlin_axis": [
             [
                 "GER_fate_of_czechoslovakia",
@@ -1365,11 +1343,6 @@
             ]
         ],
         "GER_plenipotentiary_of_armaments": [
-            [
-                "GER_form_organization_todt",
-                "GER_employ_philipp_holzmann",
-                "GER_prioritize_the_four_year_plan"
-            ],
             [
                 "GER_employ_philipp_holzmann"
             ]
